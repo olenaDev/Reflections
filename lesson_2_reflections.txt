@@ -20,6 +20,7 @@ Branches help you to save working version while you adding new features
 when you want to try smth and don't mess main code
 
 How do the diagrams help you visualize the branch structure?
+it helps you to see what contains each branch
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
