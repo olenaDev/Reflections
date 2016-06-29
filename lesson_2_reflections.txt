@@ -11,6 +11,8 @@ it helps you to form logic commit easier
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+using staging area you can add specific files for commit,so it's to make logic
+commit
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
